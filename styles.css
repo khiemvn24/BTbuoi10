@@ -1,0 +1,57 @@
+body {
+	width: 900px;
+	margin: 0 auto;
+	font-size: 25px;
+}
+form {
+	padding-bottom: 10px;
+}
+input {
+	height: 30px;
+	width: 900px;
+	margin-bottom: 10px;
+	border-radius: 3px;
+}
+div {
+	padding-bottom: 10px;
+}
+button{
+	background-color: blue;
+	height: 30px;
+	width: 50px;
+	border-radius: 3px;
+}
+textarea{
+	width: 450px;
+	border-radius: 3px;
+	
+}
+#bt_bcc{
+	width: 200px;
+}
+#ketQua1{
+	background-color: rgb(236, 233, 233);
+}
+#ketQua2{
+	background-color: rgb(236, 233, 233);
+}
+#ketQua3{
+	background-color: rgb(236, 233, 233);
+}
+#ketQua4{
+	background-color: rgb(236, 233, 233);
+}
+#ketQua5{
+	background-color: rgb(236, 233, 233);
+}
+#ketQua6{
+	background-color: rgb(236, 233, 233);
+}
+#ketQua{
+	background-color: rgb(236, 233, 233);
+}
+#k{
+	width: 500px;
+}
+
+
